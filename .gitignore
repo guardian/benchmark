@@ -1,0 +1,6 @@
+*.swp
+*.iml
+.idea
+lib_managed
+boot
+target
